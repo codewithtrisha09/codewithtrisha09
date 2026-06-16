@@ -1,71 +1,79 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Trisha Shetty</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Engineer | ML & Computer Vision Enthusiast</h3>
+
+<h3 align="center">
+B.Tech CSE (AI & ML) Student | Computer Vision & ML Enthusiast | Aspiring Software Engineer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithtrisha09&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="mailto:trishashetty9099@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/codewithtrisha09">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student at MIT Manipal  
-- 💡 Passionate about software development and AI/ML basics  
-- 👀 Exploring Computer Vision, Web Development & Data Analytics  
-- 🧠 Focused on learning by building real-world projects  
-- ⚡ Always improving my problem-solving skills  
+- 🎓 B.Tech CSE (AI & ML), Manipal Institute of Technology (Expected 2028)
+- 💡 Passionate about AI/ML, Computer Vision, and Data Analytics
+- 👀 Exploring real-world problem solving through projects
+- ⚡ Focused on building strong foundations in DSA + ML + Full Stack basics
+- 🌱 Active Open Source contributor (GSSoC 2026)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-### 👩‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 📊 Data Science Basics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Languages:** Python, Java (OOP), C, JavaScript (ES6+), SQL  
+**Web Development:** React.js, Vite, HTML5, CSS3  
+**Data Science:** Data Analysis, Statistical Analysis, EDA, Pandas, NumPy  
+**Machine Learning & CV:** Scikit-learn, OpenCV, MediaPipe, Supervised Learning  
+**Visualization:** Matplotlib, Seaborn, Tableau  
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🩸 SheCARE
-Health education platform for teenage girls  
-Tech: JavaScript, React (learning phase)
+### 🩸 SheCARE – Women’s Health Platform
+`React.js • Vite • JavaScript • MongoDB`
+- Built a responsive health education platform for awareness and wellness
+- Designed modern UI with React + Vite for high performance
+- Planning AI health assistant + OCR-based report translation
 
-### 🥭 Fruit Ninja Game (Computer Vision Project)
-Real-time fruit slicing game using **OpenCV + MediaPipe**  
-- Hand tracking for gesture control  
-- Interactive game mechanics using computer vision  
+---
 
-### ✋ Hastify
-Real-time hand tracking web app using MediaPipe + React  
-- Detects hand landmarks in real time  
-- Displays gesture tracking on live webcam feed  
+### 🥭 Fruit Ninja AI Clone
+`Python • OpenCV • MediaPipe • NumPy`
+- Real-time hand tracking game using computer vision
+- Gesture-based interaction using MediaPipe landmarks
+- Smooth object detection + slicing mechanics
+
+---
+
+### 🧠 Breast Cancer Prediction System
+`Python • Scikit-learn • Pandas`
+- Machine learning classification model for medical prediction
+- Built full data preprocessing + feature selection pipeline
+- Evaluated using validation metrics
+
+---
 
 ### 🎬 Netflix Data Analysis
-Python project for analyzing Netflix dataset and visual insights  
-
-### 🏨 Hotel Management System
-Java-based system for managing hotel operations  
+`Python • Pandas • Matplotlib • Seaborn`
+- Cleaned and analyzed large Netflix dataset
+- Built EDA pipelines and visual insights on trends
+- Identified regional content distribution patterns
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithtrisha09&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithtrisha09&theme=tokyonight" />
@@ -75,31 +83,23 @@ Java-based system for managing hotel operations
 
 ## 🎯 Currently Learning
 
-- Frontend Development (React basics)
-- Computer Vision (MediaPipe & OpenCV)
-- Data Structures & Algorithms
-- Python for Data Analysis
+- Data Structures & Algorithms (Problem Solving)
+- Advanced Computer Vision (MediaPipe pipelines)
+- React Frontend Development
+- Machine Learning model optimization
 
 ---
 
-## 🌐 Connect With Me
+## 🌟 Achievements
 
-<p align="center">
-  <a href="https://github.com/codewithtrisha09">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:trishaScodes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+- Selected for **GirlScript Summer of Code (GSSoC 2026)**
+- Certified in:
+  - Google Data Analytics Professional Certificate
+  - Databases & SQL for Data Science (IBM)
+  - Machine Learning Guided Projects
 
 ---
 
 ## ✨ Quote
 
 > “Small consistent progress builds great engineers.”
-
----
