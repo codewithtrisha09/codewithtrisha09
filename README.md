@@ -1,23 +1,29 @@
+<!-- HERO HEADER -->
 <h1 align="center">Hi 👋, I'm Trisha Shetty</h1>
 
 <h3 align="center">
-B.Tech CSE (AI & ML) Student | ML & Computer Vision Enthusiast | Aspiring Software Engineer
+B.Tech CSE (AI & ML) Student | Machine Learning & Data Science Enthusiast | Aspiring Software Engineer
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithtrisha09&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
+<!-- CONTACT BAR -->
 <p align="center">
-  <a href="mailto:trishashetty9099@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=trishashetty9099@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/codewithtrisha09">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+
+  <a href="https://github.com/codewithtrisha09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+  <a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
 </p>
 
 ---
@@ -26,9 +32,9 @@ B.Tech CSE (AI & ML) Student | ML & Computer Vision Enthusiast | Aspiring Softwa
 
 - 🎓 B.Tech CSE (AI & ML), Manipal Institute of Technology (2028)
 - 💡 Passionate about AI/ML, Data Science & Intelligent Systems
-- ⚡ Love building real-world projects instead of just theory
+- ⚡ Focused on building real-world impactful projects
 - 🌱 Active Open Source Contributor (GSSoC 2026)
-- 🎯 Focused on DSA + ML + Full Stack Development
+- 🎯 Strong interest in ML + Full Stack + Problem Solving
 
 ---
 
@@ -68,7 +74,7 @@ B.Tech CSE (AI & ML) Student | ML & Computer Vision Enthusiast | Aspiring Softwa
 
 ### 🩸 SheCARE – Women’s Health Platform
 - React + Vite based responsive health education platform
-- Modern UI/UX focused design
+- Clean UI/UX focused design with scalability
 - Future: AI assistant + OCR medical report module
 
 ### 🥭 Fruit Ninja AI Clone
@@ -77,8 +83,8 @@ B.Tech CSE (AI & ML) Student | ML & Computer Vision Enthusiast | Aspiring Softwa
 - Built using Python + OpenCV + MediaPipe
 
 ### 🧠 Breast Cancer Prediction System
-- ML classification model using Scikit-learn
-- Full data preprocessing + evaluation pipeline
+- Machine Learning classification model using Scikit-learn
+- Complete data preprocessing + evaluation pipeline
 
 ### 🎬 Netflix Data Analysis
 - Exploratory Data Analysis on global Netflix dataset
