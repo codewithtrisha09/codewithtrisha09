@@ -131,5 +131,5 @@ Computer vision project that recognizes Bharatanatyam hand mudras in real time u
 ## Quote
 
 <p align="center">
-  <b>Small consistent progress builds great engineers.</b>
+  <b>Small consistent progress builds great engineers</b>
 </p>
