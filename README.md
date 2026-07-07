@@ -100,13 +100,7 @@ Computer vision project that recognizes Bharatanatyam hand mudras in real time u
  <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithtrisha09&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithtrisha09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
