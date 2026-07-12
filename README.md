@@ -1,10 +1,9 @@
-
 <!-- HERO HEADER -->
 <h1 align="center">Hi, I'm Trisha Shetty</h1>
 
-<h3 align="center">
-B.Tech CSE (AI & ML) Student | Machine Learning and Data Science Enthusiast | Aspiring Software Engineer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+%40+MIT+Manipal;Machine+Learning+%26+Data+Science+Enthusiast;Aspiring+Software+Engineer;GSSoC+2026+Contributor" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithtrisha09&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views" />
@@ -37,32 +36,104 @@ B.Tech CSE (AI & ML) Student | Machine Learning and Data Science Enthusiast | As
 ## Technical Skills
 
 ### Programming Languages
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+
 ### Web Development
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
 ### Data Science and Analytics
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+
+
+
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+
+
 ### Machine Learning
+
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
+
 ### Tools and Platforms
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 
 ---
 
@@ -74,7 +145,7 @@ AI-powered healthcare report management system. Users can sign up, upload medica
 ### Mudra Detector
 Computer vision project that recognizes Bharatanatyam hand mudras in real time using OpenCV, MediaPipe, and machine learning. It detects hand landmarks from a webcam feed, classifies the mudra, and displays the prediction through a Flask web interface.
 
-### SheCARE – Women’s Health Platform
+### SheCARE – Women's Health Platform
 - React and Vite-based responsive health education platform.
 - Designed with a clean UI/UX and scalability in mind.
 - Future scope includes an AI assistant and OCR-based medical report module.
@@ -97,10 +168,9 @@ Computer vision project that recognizes Bharatanatyam hand mudras in real time u
 ## GitHub Stats
 
 <p align="center">
- <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithtrisha09&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats" width="48%" />
 </p>
-
-
 
 ---
 
