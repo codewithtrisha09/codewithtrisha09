@@ -49,6 +49,8 @@
 **Web Development**
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -67,8 +69,11 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-**Tools & Platforms**
+**Infra & Tools**
 <p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -80,6 +85,15 @@
 ### 💼 Featured Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+**🛡️ ScamShield** — [Live demo](https://your-render-url.onrender.com) · [Source](https://github.com/codewithtrisha09/scam-shield)
+Full-stack scam-detection tool for job/internship offers: a Chrome extension and a website sharing one Node.js/Express/MongoDB backend. Uses an explainable, rule-based risk-scoring engine (not a black box) with a Gemini-powered extraction fallback for messy real-world text, plus an AI resume-to-job-description matcher, domain-age and LinkedIn verification checks, and a crowdsourced company-reporting system. Containerized with Docker and deployed through a GitHub Actions CI/CD pipeline.
+`Node.js` `Express` `MongoDB` `Chrome Extension (Manifest V3)` `Docker` `GitHub Actions` `Gemini API`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
