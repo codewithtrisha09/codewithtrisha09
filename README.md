@@ -1,7 +1,7 @@
 <!-- HERO HEADER -->
 <div align="center">
 
-<h1>Hi, I'm Trisha Shetty 👋</h1>
+<h1>Hi, I'm Trisha Shetty</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+%40+MIT+Manipal;Machine+Learning+%26+Data+Science+Enthusiast;Aspiring+Software+Engineer;GSSoC+2026+Contributor" alt="Typing SVG" />
 
@@ -25,17 +25,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 B.Tech CSE (AI & ML) student at Manipal Institute of Technology, graduating in 2028.
-- 🤖 Passionate about artificial intelligence, machine learning, data science, and intelligent systems.
-- 🛠️ Focused on building practical projects with real-world value.
-- 🌱 Active open-source contributor through GSSoC 2026.
-- 💡 Always exploring the intersection of ML, full-stack development, and problem solving.
+- B.Tech CSE (AI & ML) student at Manipal Institute of Technology, graduating in 2028.
+- Passionate about artificial intelligence, machine learning, data science, and intelligent systems.
+- Focused on building practical projects with real-world value.
+- Active open-source contributor through GSSoC 2026.
+- Always exploring the intersection of ML, full-stack development, and problem solving.
 
 ---
 
-### 🧰 Technical Skills
+### Technical Skills
 
 **Languages**
 <p>
@@ -82,28 +82,28 @@
 
 ---
 
-### 💼 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td colspan="2" valign="top">
 
-**🛡️ ScamShield** — [Live demo](https://your-render-url.onrender.com) · [Source](https://github.com/codewithtrisha09/scam-shield)
-Full-stack scam-detection tool for job/internship offers: a Chrome extension and a website sharing one Node.js/Express/MongoDB backend. Uses an explainable, rule-based risk-scoring engine (not a black box) with a Gemini-powered extraction fallback for messy real-world text, plus an AI resume-to-job-description matcher, domain-age and LinkedIn verification checks, and a crowdsourced company-reporting system. Containerized with Docker and deployed through a GitHub Actions CI/CD pipeline.
-`Node.js` `Express` `MongoDB` `Chrome Extension (Manifest V3)` `Docker` `GitHub Actions` `Gemini API`
+**ScamShield** — [Live demo](https://your-render-url.onrender.com) · [Source](https://github.com/codewithtrisha09/scam-shield)
+Full-stack scam-detection tool for job/internship offers: a Chrome extension and a website sharing one Node.js/Express/MongoDB backend. Uses an explainable, rule-based risk-scoring engine (not a black box) with a Gemini-powered extraction fallback for messy real-world text, plus an AI resume-to-job-description matcher, domain-age verification, and a crowdsourced company-reporting system.
+`Node.js` `Express` `MongoDB` `Chrome Extension (Manifest V3)` `Gemini API`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🏥 CareBridge**
+**CareBridge**
 AI-powered healthcare report management system. Upload medical reports, extract text with OCR, simplify medical language using Gemini AI, and manage medicine reminders.
 
 </td>
 <td width="50%" valign="top">
 
-**🪷 Mudra Detector**
+**Mudra Detector**
 Real-time Bharatanatyam hand mudra recognition using OpenCV, MediaPipe, and ML, served through a Flask web interface.
 
 </td>
@@ -111,13 +111,13 @@ Real-time Bharatanatyam hand mudra recognition using OpenCV, MediaPipe, and ML, 
 <tr>
 <td width="50%" valign="top">
 
-**💙 SheCARE — Women's Health Platform**
+**SheCARE — Women's Health Platform**
 React + Vite-based responsive health education platform with clean UI/UX. Future scope: AI assistant + OCR-based medical report module.
 
 </td>
 <td width="50%" valign="top">
 
-**🍉 Fruit Ninja AI Clone**
+**Fruit Ninja AI Clone**
 Real-time hand-tracking game with gesture-based interaction, built using Python, OpenCV, and MediaPipe.
 
 </td>
@@ -125,13 +125,13 @@ Real-time hand-tracking game with gesture-based interaction, built using Python,
 <tr>
 <td width="50%" valign="top">
 
-**🎗️ Breast Cancer Prediction System**
+**Breast Cancer Prediction System**
 ML classification model using Scikit-learn, with a full preprocessing, training, and evaluation pipeline.
 
 </td>
 <td width="50%" valign="top">
 
-**🎬 Netflix Data Analysis**
+**Netflix Data Analysis**
 Exploratory data analysis on a global Netflix dataset with insights using Pandas, Matplotlib, and Seaborn.
 
 </td>
@@ -140,7 +140,7 @@ Exploratory data analysis on a global Netflix dataset with insights using Pandas
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
@@ -148,24 +148,22 @@ Exploratory data analysis on a global Netflix dataset with insights using Pandas
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 `Data Structures & Algorithms` · `Machine Learning Optimization` · `React Frontend Development` · `System Design Basics`
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
--  Selected for GirlScript Summer of Code 2026
--  Google Data Analytics Certificate
--  IBM SQL for Data Science Certificate
--  Machine Learning Guided Projects
+- Selected for GirlScript Summer of Code 2026
+- Google Data Analytics Certificate
+- IBM SQL for Data Science Certificate
+- Machine Learning Guided Projects
 
 ---
 
 <div align="center">
-
-### 💭
 
 **"Small consistent progress builds great engineers."**
 
