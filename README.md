@@ -96,15 +96,17 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, inter
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### ScamShield
 
 A full-stack **scam detection platform** for identifying potentially fraudulent job and internship offers.
 
-Includes a Chrome extension and web application backed by a Node.js, Express, and MongoDB API. Uses an explainable rule-based risk scoring system with AI-assisted extraction for unstructured text.
+Includes a Chrome extension and web application backed by a Node.js, Express, and MongoDB API. Uses an explainable rule-based risk-scoring system with AI-assisted extraction for unstructured text.
 
-**Tech:** `Node.js` `Express` `MongoDB` `Chrome Extension` `Gemini API`
+**Tech:**
+`Node.js` `Express` `MongoDB` `Chrome Extension` `Gemini API`
 
 <br/>
 
@@ -120,9 +122,10 @@ Includes a Chrome extension and web application backed by a Node.js, Express, an
 
 An AI-assisted **healthcare report management system** that helps users upload medical reports, extract text using OCR, and simplify complex medical information.
 
-Includes a planned AI chatbot and medicine reminder functionality.
+Includes planned AI chatbot and medicine reminder functionality.
 
-**Tech:** `React` `Node.js` `Express` `MongoDB` `Tesseract.js` `Gemini API` `JWT`
+**Tech:**
+`React` `Node.js` `Express` `MongoDB` `Tesseract.js` `Gemini API` `JWT`
 
 <br/>
 
@@ -131,9 +134,11 @@ Includes a planned AI chatbot and medicine reminder functionality.
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### MudraLens
@@ -142,7 +147,8 @@ A real-time **Bharatanatyam hand gesture recognition system** using computer vis
 
 The system uses MediaPipe and OpenCV for hand landmark extraction and classification, with a Flask interface for interaction.
 
-**Tech:** `Python` `OpenCV` `MediaPipe` `Scikit-learn` `Flask`
+**Tech:**
+`Python` `OpenCV` `MediaPipe` `Scikit-learn` `Flask`
 
 <br/>
 
@@ -160,7 +166,8 @@ A responsive **women's health education platform** built with React and Vite, de
 
 Future development includes authentication, period tracking, AI assistance, and medical report features.
 
-**Tech:** `React` `Vite` `JavaScript` `CSS`
+**Tech:**
+`React` `Vite` `JavaScript` `CSS`
 
 <br/>
 
@@ -169,18 +176,21 @@ Future development includes authentication, period tracking, AI assistance, and 
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### Fruit Ninja AI
+### AirSlice
 
-A computer vision-based game that uses **real-time hand tracking** to let players slice fruits using finger movements captured through a webcam.
+A computer vision-based **fruit-slicing game** that uses real-time hand tracking to let players interact with the game through finger movements captured by a webcam.
 
-Built using OpenCV and MediaPipe for real-time gesture interaction.
+Built with MediaPipe for hand landmark detection and OpenCV for real-time video processing and game interaction.
 
-**Tech:** `Python` `OpenCV` `MediaPipe` `NumPy`
+**Tech:**
+`Python` `OpenCV` `MediaPipe` `NumPy`
 
 <br/>
 
@@ -192,15 +202,15 @@ Built using OpenCV and MediaPipe for real-time gesture interaction.
 
 <td width="50%" valign="top">
 
-### AirSlice
+### Hotel Management System
 
-An interactive computer-vision project exploring **gesture-based interaction** and real-time object detection through webcam input.
+A desktop-based hotel management application developed using JavaFX, demonstrating object-oriented programming, GUI development, and application workflow design.
 
-The project focuses on combining computer vision with an interactive gaming experience.
-
-**Tech:** `Python` `OpenCV` `MediaPipe`
+**Tech:**
+`Java` `JavaFX` `OOP`
 
 </td>
+
 </tr>
 </table>
 
@@ -212,13 +222,15 @@ The project focuses on combining computer vision with an interactive gaming expe
 
 A machine learning classification project using Scikit-learn with data preprocessing, model training, and evaluation.
 
-**Focus:** `Classification` `Data Preprocessing` `Model Evaluation` `Scikit-learn`
+**Focus:**
+`Classification` `Data Preprocessing` `Model Evaluation` `Scikit-learn`
 
 ### Netflix Data Analysis
 
-Exploratory data analysis of a global Netflix dataset to identify trends and patterns in content, genres, countries, and release years.
+Exploratory data analysis of a global Netflix dataset to identify trends and patterns across content, genres, countries, and release years.
 
-**Tech:** `Python` `Pandas` `Matplotlib` `Seaborn`
+**Tech:**
+`Python` `Pandas` `Matplotlib` `Seaborn`
 
 ---
 
@@ -234,24 +246,26 @@ Exploratory data analysis of a global Netflix dataset to identify trends and pat
 
 ## Currently Learning
 
-```text
-Data Structures & Algorithms
-Machine Learning Optimization
-React & Frontend Development
-Backend Development
-System Design Fundamentals
-```
+<div align="center">
+
+`Data Structures & Algorithms`
+`Machine Learning Optimization`
+`React & Frontend Development`
+`Backend Development`
+`System Design Fundamentals`
+
+</div>
 
 ---
 
 ## Certifications & Achievements
 
-* GirlScript Summer of Code 2026 Contributor
-* Google Data Analytics Certificate
-* Google Data Visualization Certificate
-* Google Introduction to Data Analytics Using Python
-* IBM Databases and SQL for Data Science
-* Machine Learning Guided Projects
+* **GirlScript Summer of Code 2026** — Open Source Contributor
+* **Google Data Analytics Certificate**
+* **Google Data Visualization Certificate**
+* **Google Introduction to Data Analytics Using Python**
+* **IBM Databases and SQL for Data Science**
+* **Machine Learning Guided Projects**
 
 ---
 
