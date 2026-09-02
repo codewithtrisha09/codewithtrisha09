@@ -100,29 +100,6 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology** passio
 
 <td width="50%">
 
-### CrediFraud
-
-**Adaptive Credit Card Fraud Detection**
-
-A machine learning system designed to detect fraudulent credit card transactions under **extreme class imbalance and changing transaction patterns**.
-
-The system combines data preprocessing, **SMOTE**, ensemble learning, **XGBoost**, adaptive **SGDClassifier**, and concept-drift monitoring.
-
-It provides real-time fraud risk prediction with **Low / Medium / High risk classification** through a Streamlit interface.
-
-**Tech:**
-`Python` `Scikit-learn` `XGBoost` `SMOTE` `Pandas` `NumPy` `Streamlit`
-
-<br/>
-
-<a href="https://github.com/codewithtrisha09/CreditCardFraudDetection">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
 ### ScamShield
 
 **AI-Assisted Scam Detection Platform**
@@ -141,10 +118,6 @@ Includes a Chrome extension and web application with a Node.js, Express, and Mon
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -167,6 +140,10 @@ Uses **Tesseract.js for OCR** and Gemini API for AI-assisted report analysis, wi
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### MudraLens
@@ -187,10 +164,6 @@ Built using **MediaPipe and OpenCV**, with a machine learning classifier trained
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -213,6 +186,10 @@ Built using React and Vite with a clean and responsive frontend architecture.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### AirSlice
@@ -234,10 +211,6 @@ Uses computer vision and hand tracking for gesture-based interaction.
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### Hotel Management System
@@ -253,21 +226,6 @@ Implements object-oriented programming concepts with a graphical user interface 
 
 </td>
 
-<td width="50%">
-
-### More Projects
-
-I'm continuously building and experimenting with new projects across:
-
-* Machine Learning
-* Computer Vision
-* Data Science
-* Full-Stack Development
-* AI Applications
-* Java Applications
-
-</td>
-
 </tr>
 </table>
 
@@ -275,9 +233,38 @@ I'm continuously building and experimenting with new projects across:
 
 # Data Science Projects
 
+## ⭐ CrediFraud — Adaptive Credit Card Fraud Detection
+
+An adaptive machine learning system designed to detect fraudulent credit card transactions under **extreme class imbalance and changing transaction patterns**.
+
+The project uses the **ULB Credit Card Fraud Detection dataset**, containing **284,807 transactions with only 492 fraudulent transactions**, making fraud detection a highly imbalanced classification problem.
+
+The system explores and compares multiple machine learning approaches, including **Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and adaptive SGD-based classification**.
+
+### Key Features
+
+* Handles severe **class imbalance** using SMOTE
+* Uses **XGBoost** as a high-performance fraud detection model
+* Implements an adaptive **SGDClassifier**
+* Monitors **concept drift** in transaction patterns
+* Compares multiple classification models
+* Provides fraud-risk predictions through a **Streamlit interface**
+* Classifies transactions into **Low, Medium, and High risk**
+
+**Tech:**
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `SMOTE` `Matplotlib` `Streamlit`
+
+<br/>
+
+<a href="https://github.com/codewithtrisha09/CreditCardFraudDetection">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
 ### Breast Cancer Prediction
 
-Machine learning classification project focused on predicting breast cancer diagnosis using preprocessing, model training, and evaluation techniques.
+Machine learning classification project focused on predicting breast cancer diagnosis using data preprocessing, model training, and evaluation techniques.
 
 **Tech:**
 `Python` `Pandas` `Scikit-learn` `Matplotlib`
