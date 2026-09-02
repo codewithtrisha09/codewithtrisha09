@@ -1,6 +1,8 @@
-# Hi, I'm Trisha Shetty
+<!-- HERO HEADER -->
 
 <div align="center">
+
+# Hi, I'm Trisha Shetty
 
 ### B.Tech CSE (AI & ML) · Manipal Institute of Technology
 
@@ -11,16 +13,14 @@
 <a href="https://github.com/codewithtrisha09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:trishashetty9099@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=codewithtrisha09&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -28,14 +28,14 @@
 
 ## About Me
 
-I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, interested in building practical software using machine learning, data science, computer vision, and full-stack development.
+I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology** passionate about building practical software solutions using Machine Learning, Data Science, Computer Vision, and Full-Stack Development.
 
 * Interested in **Machine Learning, AI, Data Science, and Software Engineering**
-* Building projects that combine **AI with real-world applications**
-* Exploring **full-stack development with React and Node.js**
+* Building projects that combine **ML with real-world applications**
+* Exploring **React, Node.js, and modern web development**
 * Practicing **Data Structures & Algorithms**
-* Open-source contributor through **GirlScript Summer of Code 2026**
-* Currently strengthening my foundations in **ML, DSA, and modern web development**
+* Open Source Contributor through **GSSoC 2026**
+* Currently strengthening my skills in **ML, DSA, and Full-Stack Development**
 
 ---
 
@@ -46,20 +46,20 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, inter
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Machine Learning & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
 </p>
 
 ### Computer Vision & AI
@@ -75,11 +75,10 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, inter
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### Databases & Tools
@@ -94,40 +93,46 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, inter
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### CrediFraud
 
-An **adaptive credit card fraud detection system** designed to identify fraudulent transactions under extreme class imbalance and changing transaction patterns.
+**Adaptive Credit Card Fraud Detection**
 
-The project uses SMOTE for handling class imbalance, XGBoost as the primary detection model, and an adaptive SGD-based classifier with drift monitoring to respond to evolving fraud patterns.
+A machine learning system designed to detect fraudulent credit card transactions under **extreme class imbalance and changing transaction patterns**.
+
+The system combines data preprocessing, **SMOTE**, ensemble learning, **XGBoost**, adaptive **SGDClassifier**, and concept-drift monitoring.
+
+It provides real-time fraud risk prediction with **Low / Medium / High risk classification** through a Streamlit interface.
 
 **Tech:**
-`Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `SMOTE` `Streamlit`
+`Python` `Scikit-learn` `XGBoost` `SMOTE` `Pandas` `NumPy` `Streamlit`
 
 <br/>
 
-<a href="https://github.com/codewithtrisha09">
+<a href="https://github.com/codewithtrisha09/CreditCardFraudDetection">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### ScamShield
 
-A full-stack **scam detection platform** for identifying potentially fraudulent job and internship offers.
+**AI-Assisted Scam Detection Platform**
 
-Includes a Chrome extension and web application backed by a Node.js, Express, and MongoDB API. Uses an explainable rule-based risk-scoring system with AI-assisted extraction for unstructured text.
+A platform designed to identify and assess **fraudulent job and internship offers**.
+
+Includes a Chrome extension and web application with a Node.js, Express, and MongoDB backend, combining rule-based risk scoring with AI-assisted information extraction.
 
 **Tech:**
-`Node.js` `Express` `MongoDB` `Chrome Extension` `Gemini API`
+`React` `Node.js` `Express` `MongoDB` `JavaScript`
 
 <br/>
 
@@ -141,13 +146,15 @@ Includes a Chrome extension and web application backed by a Node.js, Express, an
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### CareBridge
 
-An AI-assisted **healthcare report management system** that helps users upload medical reports, extract text using OCR, and simplify complex medical information.
+**AI-Assisted Healthcare Report Management**
 
-Includes planned AI chatbot and medicine reminder functionality.
+A healthcare report management platform that helps users organize and understand medical reports.
+
+Uses **Tesseract.js for OCR** and Gemini API for AI-assisted report analysis, with JWT-based authentication and a full-stack architecture.
 
 **Tech:**
 `React` `Node.js` `Express` `MongoDB` `Tesseract.js` `Gemini API` `JWT`
@@ -160,13 +167,15 @@ Includes planned AI chatbot and medicine reminder functionality.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### MudraLens
 
-A real-time **Bharatanatyam hand gesture recognition system** using computer vision and machine learning.
+**Bharatanatyam Hand Gesture Recognition**
 
-The system uses MediaPipe and OpenCV for hand landmark extraction and classification, with a Flask interface for interaction.
+A computer vision system that recognizes Bharatanatyam hand gestures using hand landmark detection and machine learning.
+
+Built using **MediaPipe and OpenCV**, with a machine learning classifier trained on a large custom dataset.
 
 **Tech:**
 `Python` `OpenCV` `MediaPipe` `Scikit-learn` `Flask`
@@ -183,16 +192,18 @@ The system uses MediaPipe and OpenCV for hand landmark extraction and classifica
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### SheCARE
 
-A responsive **women's health education platform** built with React and Vite, designed to provide accessible educational resources through a clean and user-friendly interface.
+**Women's Health Education Platform**
 
-Future development includes authentication, period tracking, AI assistance, and medical report features.
+A modern web platform focused on providing accessible women's health education and information.
+
+Built using React and Vite with a clean and responsive frontend architecture.
 
 **Tech:**
-`React` `Vite` `JavaScript` `CSS`
+`React` `Vite` `JavaScript` `HTML` `CSS`
 
 <br/>
 
@@ -202,13 +213,15 @@ Future development includes authentication, period tracking, AI assistance, and 
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### AirSlice
 
-A computer vision-based **fruit-slicing game** that uses real-time hand tracking to let players interact with the game through finger movements captured by a webcam.
+**Computer Vision Fruit Slicing Game**
 
-Built with MediaPipe for hand landmark detection and OpenCV for real-time video processing and game interaction.
+A webcam-based game inspired by Fruit Ninja where hand movements are tracked in real time to slice virtual fruits.
+
+Uses computer vision and hand tracking for gesture-based interaction.
 
 **Tech:**
 `Python` `OpenCV` `MediaPipe` `NumPy`
@@ -225,18 +238,33 @@ Built with MediaPipe for hand landmark detection and OpenCV for real-time video 
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### Hotel Management System
 
-A desktop-based hotel management application developed using JavaFX, demonstrating object-oriented programming, GUI development, and application workflow design.
+**JavaFX Desktop Application**
+
+A desktop-based hotel management system developed using Java and JavaFX.
+
+Implements object-oriented programming concepts with a graphical user interface for managing hotel operations.
 
 **Tech:**
 `Java` `JavaFX` `OOP`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
+
+### More Projects
+
+I'm continuously building and experimenting with new projects across:
+
+* Machine Learning
+* Computer Vision
+* Data Science
+* Full-Stack Development
+* AI Applications
+* Java Applications
 
 </td>
 
@@ -245,27 +273,35 @@ A desktop-based hotel management application developed using JavaFX, demonstrati
 
 ---
 
-## Data Science Projects
+# Data Science Projects
 
 ### Breast Cancer Prediction
 
-A machine learning classification project using Scikit-learn with data preprocessing, model training, and evaluation.
+Machine learning classification project focused on predicting breast cancer diagnosis using preprocessing, model training, and evaluation techniques.
 
-**Focus:**
-`Classification` `Data Preprocessing` `Model Evaluation` `Scikit-learn`
+**Tech:**
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+---
 
 ### Netflix Data Analysis
 
-Exploratory data analysis of a global Netflix dataset to identify trends and patterns across content, genres, countries, and release years.
+Exploratory data analysis of Netflix content to identify trends in movies, TV shows, genres, release years, and content distribution.
 
 **Tech:**
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codewithtrisha09&show_icons=true&theme=default&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithtrisha09&layout=compact&hide_border=true&theme=default" height="170"/>
+
+<br/>
 
 <img src="./profile/streak.svg" alt="GitHub Streak"/>
 
@@ -273,36 +309,65 @@ Exploratory data analysis of a global Netflix dataset to identify trends and pat
 
 ---
 
-## Currently Learning
+# Currently Learning
 
-<div align="center">
-
-`Data Structures & Algorithms`
-`Machine Learning Optimization`
-`React & Frontend Development`
-`Backend Development`
-`System Design Fundamentals`
-
-</div>
+* Data Structures & Algorithms
+* Machine Learning Optimization
+* Advanced Machine Learning
+* React & Frontend Development
+* Backend Development
+* System Design Fundamentals
+* Problem Solving & Competitive Programming
 
 ---
 
-## Certifications & Achievements
+# Certifications & Achievements
 
-* **GirlScript Summer of Code 2026** — Open Source Contributor
-* **Google Data Analytics Certificate**
-* **Google Data Visualization Certificate**
+* **GirlScript Summer of Code — GSSoC 2026**
+* **Google Data Analytics**
+* **Google Data Visualization**
 * **Google Introduction to Data Analytics Using Python**
 * **IBM Databases and SQL for Data Science**
 * **Machine Learning Guided Projects**
 
 ---
 
-## Let's Connect
+# What I'm Working On
 
-I'm interested in **machine learning, software engineering, open source, and building practical technology**.
+I'm currently focused on improving my skills through hands-on projects and consistent problem solving.
 
-If you're working on an interesting project or would like to collaborate, feel free to connect.
+### Machine Learning
+
+* Classification
+* Regression
+* Gradient Descent
+* Model Evaluation
+* Feature Engineering
+* Handling Imbalanced Data
+* Concept Drift
+* Ensemble Learning
+
+### Software Development
+
+* React
+* Node.js
+* REST APIs
+* MongoDB
+* Full-Stack Applications
+
+### DSA
+
+* Arrays
+* Strings
+* Hashing
+* Linked Lists
+* Trees
+* Graphs
+* Dynamic Programming
+
+---
+
+# Let's Connect
 
 <div align="center">
 
@@ -315,11 +380,11 @@ If you're working on an interesting project or would like to collaborate, feel f
 </a>
 
 <a href="mailto:trishashetty9099@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*"Build. Learn. Iterate."*
+### Build. Learn. Iterate.
 
 </div>
