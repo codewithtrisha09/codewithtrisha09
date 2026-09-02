@@ -59,6 +59,7 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, inter
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
 </p>
 
 ### Computer Vision & AI
@@ -78,6 +79,7 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, inter
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### Databases & Tools
@@ -99,6 +101,25 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, inter
 
 <td width="50%" valign="top">
 
+### CrediFraud
+
+An **adaptive credit card fraud detection system** designed to identify fraudulent transactions under extreme class imbalance and changing transaction patterns.
+
+The project uses SMOTE for handling class imbalance, XGBoost as the primary detection model, and an adaptive SGD-based classifier with drift monitoring to respond to evolving fraud patterns.
+
+**Tech:**
+`Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `SMOTE` `Streamlit`
+
+<br/>
+
+<a href="https://github.com/codewithtrisha09">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### ScamShield
 
 A full-stack **scam detection platform** for identifying potentially fraudulent job and internship offers.
@@ -115,6 +136,10 @@ Includes a Chrome extension and web application backed by a Node.js, Express, an
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -135,10 +160,6 @@ Includes planned AI chatbot and medicine reminder functionality.
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 ### MudraLens
@@ -157,6 +178,10 @@ The system uses MediaPipe and OpenCV for hand landmark extraction and classifica
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -177,10 +202,6 @@ Future development includes authentication, period tracking, AI assistance, and 
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 ### AirSlice
@@ -200,6 +221,10 @@ Built with MediaPipe for hand landmark detection and OpenCV for real-time video 
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### Hotel Management System
@@ -208,6 +233,10 @@ A desktop-based hotel management application developed using JavaFX, demonstrati
 
 **Tech:**
 `Java` `JavaFX` `OOP`
+
+</td>
+
+<td width="50%" valign="top">
 
 </td>
 
