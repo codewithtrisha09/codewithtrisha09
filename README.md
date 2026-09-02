@@ -30,16 +30,16 @@
 
 I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology** passionate about building practical software solutions using Machine Learning, Data Science, Computer Vision, and Full-Stack Development.
 
-* Interested in **Machine Learning, AI, Data Science, and Software Engineering**
+* Interested in **Machine Learning, AI, Data Science, Computer Vision, and Software Engineering**
 * Building projects that combine **ML with real-world applications**
 * Exploring **React, Node.js, and modern web development**
 * Practicing **Data Structures & Algorithms**
 * Open Source Contributor through **GSSoC 2026**
-* Currently strengthening my skills in **ML, DSA, and Full-Stack Development**
+* Currently strengthening my skills in **ML, DSA, Computer Vision, and Full-Stack Development**
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 ### Languages
 
@@ -65,9 +65,9 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology** passio
 ### Computer Vision & AI
 
 <p>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ### Web Development
@@ -106,9 +106,10 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology** passio
 
 A platform designed to identify and assess **fraudulent job and internship offers**.
 
-Includes a Chrome extension and web application with a Node.js, Express, and MongoDB backend, combining rule-based risk scoring with AI-assisted information extraction.
+Includes a Chrome extension and web application with a Node.js, Express, and MongoDB backend, combining rule-based risk scoring with machine learning-based information extraction.
 
 **Tech:**
+
 `React` `Node.js` `Express` `MongoDB` `JavaScript`
 
 <br/>
@@ -123,14 +124,15 @@ Includes a Chrome extension and web application with a Node.js, Express, and Mon
 
 ### CareBridge
 
-**AI-Assisted Healthcare Report Management**
+**Healthcare Report Management & Analysis**
 
-A healthcare report management platform that helps users organize and understand medical reports.
+A healthcare report management platform that helps users organize, process, and understand medical reports.
 
-Uses **Tesseract.js for OCR** and Gemini API for AI-assisted report analysis, with JWT-based authentication and a full-stack architecture.
+Uses **Tesseract.js for OCR** and **YOLOv8 for computer vision-based detection**, with JWT-based authentication and a full-stack architecture.
 
 **Tech:**
-`React` `Node.js` `Express` `MongoDB` `Tesseract.js` `Gemini API` `JWT`
+
+`React` `Node.js` `Express` `MongoDB` `Tesseract.js` `YOLOv8` `JWT`
 
 <br/>
 
@@ -155,7 +157,8 @@ A computer vision system that recognizes Bharatanatyam hand gestures using hand 
 Built using **MediaPipe and OpenCV**, with a machine learning classifier trained on a large custom dataset.
 
 **Tech:**
-`Python` `OpenCV` `MediaPipe` `Scikit-learn` `Flask`
+
+`Python` `OpenCV` `MediaPipe` `Scikit-learn`
 
 <br/>
 
@@ -176,6 +179,7 @@ A modern web platform focused on providing accessible women's health education a
 Built using React and Vite with a clean and responsive frontend architecture.
 
 **Tech:**
+
 `React` `Vite` `JavaScript` `HTML` `CSS`
 
 <br/>
@@ -201,6 +205,7 @@ A webcam-based game inspired by Fruit Ninja where hand movements are tracked in 
 Uses computer vision and hand tracking for gesture-based interaction.
 
 **Tech:**
+
 `Python` `OpenCV` `MediaPipe` `NumPy`
 
 <br/>
@@ -222,6 +227,7 @@ A desktop-based hotel management system developed using Java and JavaFX.
 Implements object-oriented programming concepts with a graphical user interface for managing hotel operations.
 
 **Tech:**
+
 `Java` `JavaFX` `OOP`
 
 </td>
@@ -252,6 +258,7 @@ The system explores and compares multiple machine learning approaches, including
 * Classifies transactions into **Low, Medium, and High risk**
 
 **Tech:**
+
 `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `SMOTE` `Matplotlib` `Streamlit`
 
 <br/>
@@ -267,6 +274,7 @@ The system explores and compares multiple machine learning approaches, including
 Machine learning classification project focused on predicting breast cancer diagnosis using data preprocessing, model training, and evaluation techniques.
 
 **Tech:**
+
 `Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
@@ -276,6 +284,7 @@ Machine learning classification project focused on predicting breast cancer diag
 Exploratory data analysis of Netflix content to identify trends in movies, TV shows, genres, release years, and content distribution.
 
 **Tech:**
+
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
 ---
@@ -301,6 +310,7 @@ Exploratory data analysis of Netflix content to identify trends in movies, TV sh
 * Data Structures & Algorithms
 * Machine Learning Optimization
 * Advanced Machine Learning
+* YOLO and Object Detection
 * React & Frontend Development
 * Backend Development
 * System Design Fundamentals
@@ -333,6 +343,15 @@ I'm currently focused on improving my skills through hands-on projects and consi
 * Handling Imbalanced Data
 * Concept Drift
 * Ensemble Learning
+
+### Computer Vision
+
+* Object Detection
+* YOLOv8
+* Image Processing
+* OpenCV
+* Real-Time Detection
+* Model Training & Evaluation
 
 ### Software Development
 
