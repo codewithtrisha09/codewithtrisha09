@@ -28,14 +28,14 @@
 
 ## About Me
 
-I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology** passionate about building practical software solutions using Machine Learning, Data Science, Computer Vision, and Full-Stack Development.
+I am a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, focused on building practical software solutions using Machine Learning, Data Science, Computer Vision, and Full-Stack Development.
 
-* Interested in **Machine Learning, AI, Data Science, Computer Vision, and Software Engineering**
-* Building projects that combine **ML with real-world applications**
-* Exploring **React, Node.js, and modern web development**
+* Specializing in **Machine Learning, AI, Data Science, Computer Vision, and Software Engineering**
+* Developing projects that apply **ML to real-world problems**
+* Working with **React, Node.js, and modern web development frameworks**
 * Practicing **Data Structures & Algorithms**
-* Open Source Contributor through **GSSoC 2026**
-* Currently strengthening my skills in **ML, DSA, Computer Vision, and Full-Stack Development**
+* Contributing to open source through **GSSoC 2026**
+* Continuously strengthening expertise in **ML, DSA, Computer Vision, and Full-Stack Development**
 
 ---
 
@@ -104,9 +104,9 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology** passio
 
 **AI-Assisted Scam Detection Platform**
 
-A platform designed to identify and assess **fraudulent job and internship offers**.
+A platform built to identify and assess **fraudulent job and internship offers**.
 
-Includes a Chrome extension and web application with a Node.js, Express, and MongoDB backend, combining rule-based risk scoring with machine learning-based information extraction.
+Comprises a Chrome extension and web application with a Node.js, Express, and MongoDB backend, integrating rule-based risk scoring with machine learning-based information extraction.
 
 **Tech:**
 
@@ -126,7 +126,7 @@ Includes a Chrome extension and web application with a Node.js, Express, and Mon
 
 **Healthcare Report Management & Analysis**
 
-A healthcare report management platform that helps users organize, process, and understand medical reports.
+A healthcare report management platform that helps users organize, process, and interpret medical reports.
 
 Uses **Tesseract.js for OCR** and **YOLOv8 for computer vision-based detection**, with JWT-based authentication and a full-stack architecture.
 
@@ -152,7 +152,7 @@ Uses **Tesseract.js for OCR** and **YOLOv8 for computer vision-based detection**
 
 **Bharatanatyam Hand Gesture Recognition**
 
-A computer vision system that recognizes Bharatanatyam hand gestures using hand landmark detection and machine learning.
+A computer vision system that recognizes Bharatanatyam hand gestures through hand landmark detection and machine learning classification.
 
 Built using **MediaPipe and OpenCV**, with a machine learning classifier trained on a large custom dataset.
 
@@ -174,9 +174,9 @@ Built using **MediaPipe and OpenCV**, with a machine learning classifier trained
 
 **Women's Health Education Platform**
 
-A modern web platform focused on providing accessible women's health education and information.
+A web platform focused on delivering accessible women's health education and information.
 
-Built using React and Vite with a clean and responsive frontend architecture.
+Built using React and Vite with a clean, responsive frontend architecture.
 
 **Tech:**
 
@@ -200,9 +200,9 @@ Built using React and Vite with a clean and responsive frontend architecture.
 
 **Computer Vision Fruit Slicing Game**
 
-A webcam-based game inspired by Fruit Ninja where hand movements are tracked in real time to slice virtual fruits.
+A webcam-based game inspired by Fruit Ninja, in which hand movements are tracked in real time to slice virtual fruits.
 
-Uses computer vision and hand tracking for gesture-based interaction.
+Applies computer vision and hand tracking techniques for gesture-based interaction.
 
 **Tech:**
 
@@ -224,7 +224,7 @@ Uses computer vision and hand tracking for gesture-based interaction.
 
 A desktop-based hotel management system developed using Java and JavaFX.
 
-Implements object-oriented programming concepts with a graphical user interface for managing hotel operations.
+Implements object-oriented programming principles with a graphical user interface for managing hotel operations.
 
 **Tech:**
 
@@ -241,20 +241,20 @@ Implements object-oriented programming concepts with a graphical user interface 
 
 ## ⭐ CrediFraud — Adaptive Credit Card Fraud Detection
 
-An adaptive machine learning system designed to detect fraudulent credit card transactions under **extreme class imbalance and changing transaction patterns**.
+An adaptive machine learning system designed to detect fraudulent credit card transactions under **extreme class imbalance and evolving transaction patterns**.
 
-The project uses the **ULB Credit Card Fraud Detection dataset**, containing **284,807 transactions with only 492 fraudulent transactions**, making fraud detection a highly imbalanced classification problem.
+The project uses the **ULB Credit Card Fraud Detection dataset**, comprising **284,807 transactions with only 492 identified as fraudulent**, making fraud detection a highly imbalanced classification problem.
 
-The system explores and compares multiple machine learning approaches, including **Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and adaptive SGD-based classification**.
+The system evaluates and compares multiple machine learning approaches, including **Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and adaptive SGD-based classification**.
 
 ### Key Features
 
-* Handles severe **class imbalance** using SMOTE
+* Addresses severe **class imbalance** using SMOTE
 * Uses **XGBoost** as a high-performance fraud detection model
 * Implements an adaptive **SGDClassifier**
 * Monitors **concept drift** in transaction patterns
 * Compares multiple classification models
-* Provides fraud-risk predictions through a **Streamlit interface**
+* Delivers fraud-risk predictions through a **Streamlit interface**
 * Classifies transactions into **Low, Medium, and High risk**
 
 **Tech:**
@@ -271,7 +271,7 @@ The system explores and compares multiple machine learning approaches, including
 
 ### Breast Cancer Prediction
 
-Machine learning classification project focused on predicting breast cancer diagnosis using data preprocessing, model training, and evaluation techniques.
+A machine learning classification project focused on predicting breast cancer diagnosis through data preprocessing, model training, and evaluation.
 
 **Tech:**
 
@@ -281,7 +281,7 @@ Machine learning classification project focused on predicting breast cancer diag
 
 ### Netflix Data Analysis
 
-Exploratory data analysis of Netflix content to identify trends in movies, TV shows, genres, release years, and content distribution.
+An exploratory data analysis of Netflix content, identifying trends across movies, TV shows, genres, release years, and content distribution.
 
 **Tech:**
 
@@ -331,7 +331,7 @@ Exploratory data analysis of Netflix content to identify trends in movies, TV sh
 
 # What I'm Working On
 
-I'm currently focused on improving my skills through hands-on projects and consistent problem solving.
+I am currently focused on advancing my skills through hands-on projects and consistent problem solving.
 
 ### Machine Learning
 
