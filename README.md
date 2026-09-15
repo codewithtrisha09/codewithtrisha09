@@ -2,7 +2,6 @@
 <div align="center">
 
 # Hi, I'm Trisha Shetty
-
 ### B.Tech CSE (AI & ML) · Manipal Institute of Technology
 
 <p>
