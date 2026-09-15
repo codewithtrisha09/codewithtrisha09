@@ -1,28 +1,30 @@
-<!-- HERO HEADER -->
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-# Hi, I'm Trisha Shetty 👋
+# Hi, I'm Trisha Shetty
 
 ### B.Tech CSE (AI & ML) · Manipal Institute of Technology
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Data+Science+Enthusiast;Aspiring+Software+Engineer;Building+Practical+AI+%26+Full-Stack+Projects" alt="Typing SVG" />
+<p>
+  <strong>Machine Learning · Computer Vision · Data Science · Software Engineering</strong>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Data+Science+Enthusiast;Aspiring+Software+Engineer;Building+Practical+AI+%26+Full-Stack+Applications" alt="Typing SVG" />
+</p>
 
-<a href="https://github.com/codewithtrisha09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:trishashetty9099@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p>
+  <a href="https://github.com/codewithtrisha09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:trishashetty9099@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
@@ -30,66 +32,68 @@
 
 # About Me
 
-I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, passionate about building practical software using Machine Learning, Data Science, Computer Vision, and Full-Stack Development.
+I'm a **B.Tech Computer Science and Engineering student specializing in Artificial Intelligence & Machine Learning at Manipal Institute of Technology**.
 
-* Focused on **Machine Learning, AI, Data Science, Computer Vision, and Software Engineering**
-* Building projects that apply **ML to solve real-world problems**
-* Working with **React, Node.js, and modern web frameworks**
-* Sharpening my **Data Structures & Algorithms** fundamentals
-* Constantly leveling up in **ML, DSA, Computer Vision, and Full-Stack Development**
+My interests lie at the intersection of **Machine Learning, Computer Vision, Data Science, and Software Engineering**, with a focus on building practical systems that address real-world problems.
+
+* Developing projects across **Machine Learning, Computer Vision, and Full-Stack Development**
+* Interested in **AI-driven applications and data-centric problem solving**
+* Building experience with **React, Node.js, Python, and modern development tools**
+* Strengthening **Data Structures & Algorithms and core software engineering fundamentals**
+* Exploring **model development, evaluation, deployment, and real-world AI applications**
 
 ---
 
 # Technical Skills
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Machine Learning & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
 ### Computer Vision & AI
 
 <p>
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Databases & Tools
+### Databases & Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
@@ -105,11 +109,11 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, passi
 
 **AI-Assisted Scam Detection Platform**
 
-A platform built to spot and evaluate **fraudulent job and internship offers**.
+A platform designed to identify and evaluate potentially fraudulent **job and internship opportunities**.
 
-Includes a Chrome extension and a web app backed by Node.js, Express, and MongoDB, combining rule-based risk scoring with ML-driven information extraction.
+Combines rule-based risk assessment with ML-assisted information extraction through a browser extension and web application.
 
-**Tech:**
+**Tech Stack**
 
 `React` `Node.js` `Express` `MongoDB` `JavaScript`
 
@@ -127,11 +131,11 @@ Includes a Chrome extension and a web app backed by Node.js, Express, and MongoD
 
 **Healthcare Report Management & Analysis**
 
-A healthcare platform that helps users organize, process, and interpret medical reports with ease.
+A full-stack platform for organizing, processing, and analyzing healthcare reports.
 
-Powered by **Tesseract.js for OCR** and **YOLOv8 for computer vision-based detection**, with JWT-based authentication across a full-stack architecture.
+Integrates **OCR and computer vision** capabilities with JWT-based authentication within a full-stack architecture.
 
-**Tech:**
+**Tech Stack**
 
 `React` `Node.js` `Express` `MongoDB` `Tesseract.js` `YOLOv8` `JWT`
 
@@ -153,11 +157,11 @@ Powered by **Tesseract.js for OCR** and **YOLOv8 for computer vision-based detec
 
 **Bharatanatyam Hand Gesture Recognition**
 
-A computer vision system that identifies Bharatanatyam hand gestures using hand landmark detection and ML-based classification.
+A computer vision system for recognizing **Bharatanatyam hand gestures** using hand landmark detection and machine learning-based classification.
 
-Built with **MediaPipe and OpenCV**, powered by a classifier trained on a large custom dataset.
+Built using MediaPipe and OpenCV with a custom gesture dataset.
 
-**Tech:**
+**Tech Stack**
 
 `Python` `OpenCV` `MediaPipe` `Scikit-learn`
 
@@ -175,11 +179,9 @@ Built with **MediaPipe and OpenCV**, powered by a classifier trained on a large 
 
 **Women's Health Education Platform**
 
-A web platform dedicated to making women's health education accessible to everyone.
+A responsive web platform designed to make **women's health information** more accessible through a structured and user-friendly interface.
 
-Built with React and Vite, featuring a clean, responsive frontend.
-
-**Tech:**
+**Tech Stack**
 
 `React` `Vite` `JavaScript` `HTML` `CSS`
 
@@ -199,13 +201,13 @@ Built with React and Vite, featuring a clean, responsive frontend.
 
 ### AirSlice
 
-**Computer Vision Fruit Slicing Game**
+**Real-Time Computer Vision Game**
 
-A webcam-based game inspired by Fruit Ninja, where hand movements are tracked in real time to slice virtual fruit.
+A webcam-based interactive game inspired by Fruit Ninja, using real-time hand tracking to control gameplay.
 
-Uses computer vision and hand-tracking techniques for gesture-based interaction.
+Demonstrates computer vision-based gesture interaction and real-time landmark processing.
 
-**Tech:**
+**Tech Stack**
 
 `Python` `OpenCV` `MediaPipe` `NumPy`
 
@@ -223,11 +225,11 @@ Uses computer vision and hand-tracking techniques for gesture-based interaction.
 
 **JavaFX Desktop Application**
 
-A desktop hotel management system built with Java and JavaFX.
+A desktop-based hotel management application developed using Java and JavaFX.
 
-Applies object-oriented programming principles through a graphical interface for managing hotel operations.
+Demonstrates **object-oriented programming, GUI development, and application-level data management**.
 
-**Tech:**
+**Tech Stack**
 
 `Java` `JavaFX` `OOP`
 
@@ -238,27 +240,34 @@ Applies object-oriented programming principles through a graphical interface for
 
 ---
 
-# Data Science Projects
+# Data Science & Machine Learning Projects
 
-## ⭐ CrediFraud — Adaptive Credit Card Fraud Detection
+## CrediFraud — Adaptive Credit Card Fraud Detection
 
-An adaptive machine learning system built to detect fraudulent credit card transactions under **extreme class imbalance and evolving transaction patterns**.
+An adaptive machine learning system designed to detect fraudulent credit card transactions under **severe class imbalance and changing transaction patterns**.
 
-The project uses the **ULB Credit Card Fraud Detection dataset**, containing **284,807 transactions with just 492 marked as fraudulent** — a highly imbalanced classification challenge.
+The project uses the **ULB Credit Card Fraud Detection dataset**, containing 284,807 transactions, including 492 fraudulent transactions.
 
-The system benchmarks multiple ML approaches, including **Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and adaptive SGD-based classification**.
+Multiple classification approaches are evaluated, including:
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Gradient Boosting
+* XGBoost
+* Adaptive SGD-based classification
 
 ### Key Features
 
-* Tackles severe **class imbalance** using SMOTE
-* Uses **XGBoost** as a high-performance fraud detection model
+* Handles severe **class imbalance using SMOTE**
+* Uses **XGBoost** for high-performance classification
 * Implements an adaptive **SGDClassifier**
-* Monitors **concept drift** in transaction patterns
-* Benchmarks multiple classification models
-* Delivers fraud-risk predictions through a **Streamlit interface**
-* Classifies transactions into **Low, Medium, and High risk**
+* Monitors potential **concept drift**
+* Compares multiple machine learning models
+* Provides fraud-risk predictions through a **Streamlit interface**
+* Categorizes transactions into **Low, Medium, and High Risk**
 
-**Tech:**
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `SMOTE` `Matplotlib` `Streamlit`
 
@@ -270,21 +279,21 @@ The system benchmarks multiple ML approaches, including **Logistic Regression, D
 
 ---
 
-### Breast Cancer Prediction
+## Breast Cancer Prediction
 
-A machine learning classification project covering data preprocessing, model training, and evaluation to predict breast cancer diagnosis.
+A machine learning classification project covering **data preprocessing, model training, and evaluation** for breast cancer diagnosis prediction.
 
-**Tech:**
+**Tech Stack**
 
 `Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
 
-### Netflix Data Analysis
+## Netflix Data Analysis
 
-An exploratory data analysis of Netflix content, uncovering trends across movies, TV shows, genres, release years, and content distribution.
+An exploratory data analysis project examining Netflix's content library and identifying trends across **content type, genres, release years, and content distribution**.
 
-**Tech:**
+**Tech Stack**
 
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
@@ -309,11 +318,12 @@ An exploratory data analysis of Netflix content, uncovering trends across movies
 # Currently Learning
 
 * Data Structures & Algorithms
-* Machine Learning Optimization
 * Advanced Machine Learning
-* YOLO and Object Detection
+* Machine Learning Optimization
+* Computer Vision & Object Detection
+* YOLO-based Detection Systems
 * React & Frontend Development
-* Backend Development
+* Backend Development & REST APIs
 * System Design Fundamentals
 * Problem Solving & Competitive Programming
 
@@ -321,7 +331,6 @@ An exploratory data analysis of Netflix content, uncovering trends across movies
 
 # Certifications & Achievements
 
-* **GirlScript Summer of Code — GSSoC 2026**
 * **Google Data Analytics**
 * **Google Data Visualization**
 * **Google Introduction to Data Analytics Using Python**
@@ -330,47 +339,23 @@ An exploratory data analysis of Netflix content, uncovering trends across movies
 
 ---
 
-# What I'm Working On
-
-I'm currently focused on growing my skills through hands-on projects and consistent problem solving.
+# Areas of Focus
 
 ### Machine Learning
 
-* Classification
-* Regression
-* Gradient Descent
-* Model Evaluation
-* Feature Engineering
-* Handling Imbalanced Data
-* Concept Drift
-* Ensemble Learning
+`Classification` · `Regression` · `Gradient Descent` · `Model Evaluation` · `Feature Engineering` · `Imbalanced Learning` · `Concept Drift` · `Ensemble Learning`
 
 ### Computer Vision
 
-* Object Detection
-* YOLOv8
-* Image Processing
-* OpenCV
-* Real-Time Detection
-* Model Training & Evaluation
+`Object Detection` · `YOLOv8` · `Image Processing` · `OpenCV` · `Real-Time Detection` · `Model Training` · `Model Evaluation`
 
 ### Software Development
 
-* React
-* Node.js
-* REST APIs
-* MongoDB
-* Full-Stack Applications
+`React` · `Node.js` · `REST APIs` · `MongoDB` · `Full-Stack Applications`
 
-### DSA
+### Data Structures & Algorithms
 
-* Arrays
-* Strings
-* Hashing
-* Linked Lists
-* Trees
-* Graphs
-* Dynamic Programming
+`Arrays` · `Strings` · `Hashing` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming`
 
 ---
 
@@ -378,20 +363,18 @@ I'm currently focused on growing my skills through hands-on projects and consist
 
 <div align="center">
 
-<a href="https://github.com/codewithtrisha09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/codewithtrisha09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:trishashetty9099@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:trishashetty9099@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### Build. Learn. Iterate.
+### Building. Learning. Improving.
 
 </div>
