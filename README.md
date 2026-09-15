@@ -6,7 +6,9 @@
 
 ### B.Tech CSE (AI & ML) · Manipal Institute of Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Data+Science+Enthusiast;Aspiring+Software+Engineer;Building+Practical+AI+%26+Full-Stack+Projects;Open+Source+Contributor" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Data+Science+Enthusiast;Aspiring+Software+Engineer;Building+Practical+AI+%26+Full-Stack+Projects" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -26,7 +28,7 @@
 
 ---
 
-## About Me
+# About Me
 
 I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, passionate about building practical software using Machine Learning, Data Science, Computer Vision, and Full-Stack Development.
 
@@ -34,7 +36,6 @@ I'm a **B.Tech CSE (AI & ML) student at Manipal Institute of Technology**, passi
 * Building projects that apply **ML to solve real-world problems**
 * Working with **React, Node.js, and modern web frameworks**
 * Sharpening my **Data Structures & Algorithms** fundamentals
-* Contributing to open source through **GSSoC 2026**
 * Constantly leveling up in **ML, DSA, Computer Vision, and Full-Stack Development**
 
 ---
