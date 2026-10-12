@@ -1,67 +1,3 @@
-
-
-Pasted text(5).txt
-Document
-imporve this add vision Plot
-
-Your GitHub profile is already strong in terms of project variety, but I'd improve it by making VisionPlot one of your main featured projects. It demonstrates more than a standard ML notebook: image processing, OCR, geometric calibration, data extraction, curve fitting, and a working interactive application.
-
-I'd also make the README more placement-focused, reduce repetitive skill lists, and present your projects with clearer technical depth without claiming results or features that aren't verified.
-
-I've updated your GitHub profile README and added VisionPlot as the first featured project, with its computer vision pipeline, OCR, graph digitization, CSV export, curve fitting, and evaluation metrics.
-
-Download your improved GitHub README
-
-What I'd do next
-Replace your existing GitHub profile README.md with this version.
-
-Add the actual VisionPlot repository URL when it's ready.
-
-Add a screenshot or GIF of VisionPlot running so recruiters can immediately see the application.
-
-Pin these repositories on your profile: VisionPlot, ScamShield, MudraLens, and AirSlice.
-
-One important point: keep VisionPlot at the top. It's a particularly useful project for demonstrating practical computer vision and end-to-end implementation, rather than just model training.
-
-
-Trisha_GitHub_Profile_Improved.md
-Document
-its not pretty its not centered also language i mostly used is python and Java
-
-
-You're right 😭 The previous version was too plain. I've made a more visually styled version with a centered hero banner, animated typing text, centered section headings, and Python + Java emphasized as your primary languages.
-
-Download the redesigned GitHub README
-
-What's changed
-Top section: Gradient-style banner with your name and AI/ML focus.
-
-Centered layout: Intro, social links, and section headings.
-
-Programming languages: Python and Java are highlighted first.
-
-VisionPlot: Remains your first featured project.
-
-Overall style: More polished, modern, and recruiter-friendly.
-
-To apply it: Open your GitHub profile repository, replace the contents of README.md with the downloaded file, and commit the changes.
-
-One note: GitHub may render some HTML and external SVG animations differently, so check the preview after committing.
-
-
-Trisha_GitHub_Profile_Pretty_Centered.md
-Document
-i liked the division better a sepratedtaa science one and all dont chnage mera og wala just add vision plot
-
-It seems like I can’t do more advanced data analysis right now. Please try again later.
-
-I understand what you want now 😭❤️ Keep your original README exactly as it was — including the separate Data Science & Machine Learning Projects section, all your original divisions, formatting, and project descriptions.
-
-The only change should be adding VisionPlot to your existing Featured Projects section, alongside ScamShield, CareBridge, MudraLens, AirSlice, and the others.
-
-I won't redesign, recenter, rewrite, or reorganize anything else.
-
-
 <div align="center">
 
 # Hi, I'm Trisha Shetty
@@ -439,6 +375,3 @@ An exploratory data analysis project examining Netflix's content library and ide
 ### Building. Learning. Improving.
 
 </div>
-You’re out of data analysis for now. Start a free Plus trial for more, or try again tomorrow after 9:14 PM.
-
-
