@@ -268,11 +268,10 @@ Explores image enhancement, filtering, segmentation, feature extraction, and obj
 
 ## 🏆 Certifications & Learning
 
-- Google Data Analytics
-- Google Data Visualization
-- Google Introduction to Data Analytics Using Python
+- Google Data Analytics Professional Certificate 
 - IBM Databases and SQL for Data Science
-- Machine Learning Guided Projects
+- Stanford Machine Learning Specialization
+- Active Contributor in GSSOC
 
 ---
 
