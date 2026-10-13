@@ -176,19 +176,7 @@ Explores Netflix content data to identify trends, distributions, and patterns th
 </td>
 <td width="50%" valign="top">
 
-### 🎥 Audience–Critic Rating Divergence
 
-**Synopsis & Production Metadata-Based Prediction**
-
-An ML mini-project exploring the prediction of audience–critic rating divergence using movie plot synopses and production metadata.
-
-`Python` `NLP` `Feature Engineering` `Classification`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 👁️ Computer Vision Projects
 
@@ -269,11 +257,10 @@ Explores image enhancement, filtering, segmentation, feature extraction, and obj
 
 ## 🏆 Certifications & Learning
 
-- Google Data Analytics
-- Google Data Visualization
-- Google Introduction to Data Analytics Using Python
+- Google Data Analytics Professional Certificate 
 - IBM Databases and SQL for Data Science
-- Machine Learning Guided Projects
+- Stanford Machine Learning Specialization
+- Active Contributor in GSSOC
 
 ---
 
