@@ -19,7 +19,7 @@
 
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at Manipal Institute of Technology. I enjoy turning ideas into practical applications by combining machine learning, computer vision, data analysis, and full-stack development.
 
-- 🔭 Building AI-powered applications and intelligent data-driven systems
+- 🔭 Building AI-powered applications and data-driven systems
 - 🧠 Exploring machine learning, computer vision, model evaluation, and optimization
 - 💻 Developing software using Python, Java, React, and backend technologies
 - 📊 Working with data processing, visualization, and predictive modeling
@@ -43,25 +43,25 @@ I'm a Computer Science undergraduate specializing in **Artificial Intelligence a
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
-**Machine Learning & Data Science**
+### Machine Learning & Data Science
 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 
-**Computer Vision**
+### Computer Vision
 
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/> <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Tesseract OCR"/>
 
-**Web & Backend**
+### Web & Backend
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-**Databases & Developer Tools**
+### Databases & Developer Tools
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
 ---
 
@@ -71,52 +71,28 @@ I'm a Computer Science undergraduate specializing in **Artificial Intelligence a
 <tr>
 <td width="50%" valign="top">
 
-### 📈 VisionPlot
-**Computer vision-powered graph digitization**
-
-Transforms graph images into structured X–Y datasets using image preprocessing, edge detection, morphological operations, Hough Transform, OCR, and coordinate calibration. Supports CSV export, curve reconstruction, and polynomial model evaluation.
-
-`Python` `OpenCV` `Tesseract OCR` `NumPy` `Pandas` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/codewithtrisha09/VisionPlot)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🛡️ ScamShield
-**AI-assisted scam detection for job and internship postings**
 
-Combines rule-based risk scoring and machine learning-assisted information extraction to help users assess potentially fraudulent opportunities through a browser extension and web application.
+**AI-Assisted Scam Detection**
+
+Combines rule-based risk scoring with ML-assisted information extraction to help assess potentially fraudulent job and internship postings through a browser extension and web application.
 
 `React` `Node.js` `Express` `MongoDB`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/codewithtrisha09/scam-shield)
+<a href="https://github.com/codewithtrisha09/scam-shield"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="ScamShield repository"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏥 CareBridge
-**Healthcare report management and analysis**
 
-A full-stack platform integrating document processing, OCR, computer vision, and JWT-based authentication to organize and analyze healthcare reports.
+**Healthcare Report Management & Analysis**
+
+A full-stack platform integrating document processing, OCR, computer vision, and authentication to organize and analyze healthcare reports.
 
 `React` `Node.js` `MongoDB` `Tesseract.js` `YOLOv8` `JWT`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/codewithtrisha09/CareBridge)
-
-</td>
-<td width="50%" valign="top">
-
-### 🙏 MudraLens
-**Bharatanatyam hand gesture recognition**
-
-Explores hand-landmark extraction and machine learning-based classification to recognize Bharatanatyam mudras from image data.
-
-`Python` `OpenCV` `MediaPipe` `Scikit-learn`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/codewithtrisha09/mudra_detector)
+<a href="https://github.com/codewithtrisha09/CareBridge"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="CareBridge repository"/></a>
 
 </td>
 </tr>
@@ -124,47 +100,25 @@ Explores hand-landmark extraction and machine learning-based classification to r
 <td width="50%" valign="top">
 
 ### 🌸 SheCARE
-**Women's health education platform**
 
-A responsive web platform designed to make women's health information more accessible through a clear, user-friendly interface.
+**Women's Health Education Platform**
+
+A responsive web application designed to make women's health information more accessible through a clear, user-friendly interface.
 
 `React` `Vite` `JavaScript` `CSS`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/codewithtrisha09/sheCARE)
+<a href="https://github.com/codewithtrisha09/sheCARE"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="SheCARE repository"/></a>
 
 </td>
-<td width="50%" valign="top">
-
-### 🍉 AirSlice
-**Webcam-controlled, Fruit Ninja-style game**
-
-Uses real-time hand tracking to translate finger movements into in-game slicing interactions, combining computer vision with gesture-controlled gameplay.
-
-`Python` `OpenCV` `MediaPipe` `NumPy`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/codewithtrisha09/Fruit_Ninja)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏨 Hotel Management System
-**JavaFX desktop application**
+
+**JavaFX Desktop Application**
 
 A desktop application demonstrating object-oriented programming, GUI development, and application-level data management.
 
 `Java` `JavaFX` `OOP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Netflix Data Analysis
-**Exploratory data analysis**
-
-Analyzes content trends and dataset characteristics using data cleaning, exploratory analysis, and visualization.
-
-`Python` `Pandas` `NumPy` `Matplotlib`
 
 </td>
 </tr>
@@ -172,28 +126,199 @@ Analyzes content trends and dataset characteristics using data cleaning, explora
 
 ---
 
-## 📊 Data Science & Machine Learning
+## 📊 Machine Learning & Data Science Projects
 
-### 💳 CrediFraud — Adaptive Credit Card Fraud Detection
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A machine learning project exploring fraud detection under severe class imbalance and evolving transaction patterns using the ULB credit card fraud dataset.
+### 💳 CrediFraud
 
-- Evaluates Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and adaptive SGD classification.
+**Adaptive Credit Card Fraud Detection**
+
+Explores fraud detection under severe class imbalance and evolving transaction patterns using the ULB credit card fraud dataset.
+
+- Compares multiple classification algorithms.
 - Explores SMOTE-based class imbalance handling.
-- Investigates concept drift in changing transaction patterns.
-- Includes a Streamlit interface for presenting transaction risk as Low, Medium, or High.
+- Investigates concept drift.
+- Includes a Streamlit risk assessment interface.
 
 **Dataset:** 284,807 transactions, including 492 fraudulent transactions.
 
 `Python` `Scikit-learn` `XGBoost` `SMOTE` `Streamlit`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/codewithtrisha09/CreditCardFraudDetection)
+<a href="https://github.com/codewithtrisha09/CreditCardFraudDetection"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="CrediFraud repository"/></a>
 
-**More projects:** 🎗️ Breast Cancer Prediction · 🎬 Netflix Data Analysis
+</td>
+<td width="50%" valign="top">
+
+### 🎗️ Breast Cancer Prediction
+
+**Machine Learning Classification**
+
+Explores predictive modeling and classification techniques for breast cancer data, focusing on data preparation, model training, and evaluation.
+
+`Python` `Pandas` `Scikit-learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Netflix Data Analysis
+
+**Exploratory Data Analysis**
+
+Explores Netflix content data to identify trends, distributions, and patterns through data cleaning, statistical analysis, and visualization.
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 Audience–Critic Rating Divergence
+
+**Synopsis & Production Metadata-Based Prediction**
+
+An ML mini-project exploring the prediction of audience–critic rating divergence using movie plot synopses and production metadata.
+
+`Python` `NLP` `Feature Engineering` `Classification`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Statistics
+## 👁️ Computer Vision Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 VisionPlot
+
+**Graph Digitization with Computer Vision**
+
+Transforms graph images into structured X–Y datasets using image preprocessing, edge detection, morphological operations, Hough Transform, OCR, and coordinate calibration.
+
+**Key Features**
+- Graph image preprocessing and enhancement.
+- Axis detection and coordinate calibration.
+- Curve extraction and pixel-to-coordinate mapping.
+- CSV export of extracted numerical data.
+- Linear, quadratic, and cubic curve fitting.
+- Model evaluation using R², RMSE, and MAE.
+
+`Python` `OpenCV` `Tesseract OCR` `NumPy` `Pandas` `Streamlit` `Matplotlib`
+
+<a href="https://github.com/codewithtrisha09/VisionPlot"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="VisionPlot repository"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🙏 MudraLens
+
+**Bharatanatyam Hand Gesture Recognition**
+
+Explores hand-landmark extraction and machine learning-based classification to recognize Bharatanatyam mudras from image data.
+
+`Python` `OpenCV` `MediaPipe` `Scikit-learn`
+
+<a href="https://github.com/codewithtrisha09/mudra_detector"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="MudraLens repository"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍉 AirSlice
+
+**Real-Time Gesture-Controlled Game**
+
+Uses webcam-based hand tracking to translate finger movements into in-game slicing interactions, combining computer vision with interactive gameplay.
+
+`Python` `OpenCV` `MediaPipe` `NumPy`
+
+<a href="https://github.com/codewithtrisha09/Fruit_Ninja"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="AirSlice repository"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Computer Vision Experiments
+
+**Image Processing & Visual Recognition**
+
+Explores image enhancement, filtering, segmentation, feature extraction, and object detection through practical computer vision workflows.
+
+`Python` `OpenCV` `YOLO` `Image Processing`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 VisionPlot: Processing Pipeline
+
+```mermaid
+flowchart TD
+    A["Upload Graph Image"] --> B["Preprocessing & Enhancement"]
+    B --> C["Thresholding & Morphology"]
+    C --> D["Canny Edge Detection"]
+    D --> E["Axis Detection with Hough Transform"]
+    E --> F["OCR & Coordinate Calibration"]
+    F --> G["Curve Extraction"]
+    G --> H["Pixel-to-Coordinate Mapping"]
+    H --> I[("X–Y Dataset")]
+    I --> J["CSV Export"]
+    I --> K["Polynomial Curve Fitting"]
+    K --> L["R² · RMSE · MAE"]
+
+    style A fill:#dbeafe,stroke:#2563eb,color:#172554
+    style I fill:#dcfce7,stroke:#16a34a,color:#14532d
+    style L fill:#f3e8ff,stroke:#9333ea,color:#581c87
+```
+
+### 📉 Example Model Comparison
+
+Sample results from VisionPlot experiments:
+
+| Model | R² | RMSE | MAE |
+|---|---:|---:|---:|
+| Linear | 0.8411 | 0.5946 | 0.4975 |
+| Quadratic | 0.9873 | 0.1679 | 0.1416 |
+| Cubic | 0.9995 | 0.0343 | 0.0285 |
+
+```mermaid
+xychart-beta
+    title "VisionPlot Model R² Comparison"
+    x-axis ["Linear", "Quadratic", "Cubic"]
+    y-axis "R² Score" 0 --> 1
+    bar [0.8411, 0.9873, 0.9995]
+```
+
+*Results are illustrative of the tested datasets; actual fitting performance depends on the input graph and extracted coordinates.*
+
+---
+
+## 🌱 Currently Learning
+
+`Data Structures & Algorithms` · `Advanced Machine Learning` · `Computer Vision` · `React` · `REST APIs` · `Software Engineering` · `System Design`
+
+---
+
+## 🏆 Certifications & Learning
+
+- Google Data Analytics
+- Google Data Visualization
+- Google Introduction to Data Analytics Using Python
+- IBM Databases and SQL for Data Science
+- Machine Learning Guided Projects
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -208,27 +333,13 @@ A machine learning project exploring fraud detection under severe class imbalanc
 
 ---
 
-## 🌱 Currently Learning
-
-`Data Structures & Algorithms` · `Machine Learning Optimization` · `Computer Vision` · `React` · `REST APIs` · `Software Engineering` · `System Design`
-
-## 🏆 Certifications & Learning
-
-- Google Data Analytics
-- Google Data Visualization
-- Google Introduction to Data Analytics Using Python
-- IBM Databases and SQL for Data Science
-- Machine Learning Guided Projects
-
----
-
 <div align="center">
 
 ## 📬 Let's Connect
 
-<a href="https://github.com/codewithtrisha09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:trishashetty9099@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/codewithtrisha09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/trisha-shetty-057a5836a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:trishashetty9099@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ### Building practical solutions. Learning continuously. 🚀
 
