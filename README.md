@@ -259,48 +259,7 @@ Explores image enhancement, filtering, segmentation, feature extraction, and obj
 
 ---
 
-## 📈 VisionPlot: Processing Pipeline
 
-```mermaid
-flowchart TD
-    A["Upload Graph Image"] --> B["Preprocessing & Enhancement"]
-    B --> C["Thresholding & Morphology"]
-    C --> D["Canny Edge Detection"]
-    D --> E["Axis Detection with Hough Transform"]
-    E --> F["OCR & Coordinate Calibration"]
-    F --> G["Curve Extraction"]
-    G --> H["Pixel-to-Coordinate Mapping"]
-    H --> I[("X–Y Dataset")]
-    I --> J["CSV Export"]
-    I --> K["Polynomial Curve Fitting"]
-    K --> L["R² · RMSE · MAE"]
-
-    style A fill:#dbeafe,stroke:#2563eb,color:#172554
-    style I fill:#dcfce7,stroke:#16a34a,color:#14532d
-    style L fill:#f3e8ff,stroke:#9333ea,color:#581c87
-```
-
-### 📉 Example Model Comparison
-
-Sample results from VisionPlot experiments:
-
-| Model | R² | RMSE | MAE |
-|---|---:|---:|---:|
-| Linear | 0.8411 | 0.5946 | 0.4975 |
-| Quadratic | 0.9873 | 0.1679 | 0.1416 |
-| Cubic | 0.9995 | 0.0343 | 0.0285 |
-
-```mermaid
-xychart-beta
-    title "VisionPlot Model R² Comparison"
-    x-axis ["Linear", "Quadratic", "Cubic"]
-    y-axis "R² Score" 0 --> 1
-    bar [0.8411, 0.9873, 0.9995]
-```
-
-*Results are illustrative of the tested datasets; actual fitting performance depends on the input graph and extracted coordinates.*
-
----
 
 ## 🌱 Currently Learning
 
