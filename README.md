@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hi, I'm Trisha Shetty 👋
 ### B.Tech CSE (AI & ML) · Manipal Institute of Technology
@@ -176,7 +176,19 @@ Explores Netflix content data to identify trends, distributions, and patterns th
 </td>
 <td width="50%" valign="top">
 
+### 📉 Data Analysis & Visualization
 
+**Exploratory Analytics**
+
+Applying data cleaning, exploratory data analysis, statistical summaries, and visualization to discover patterns and communicate insights from datasets.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 👁️ Computer Vision Projects
 
@@ -247,7 +259,48 @@ Explores image enhancement, filtering, segmentation, feature extraction, and obj
 
 ---
 
+## 📈 VisionPlot: Processing Pipeline
 
+```mermaid
+flowchart TD
+    A["Upload Graph Image"] --> B["Preprocessing & Enhancement"]
+    B --> C["Thresholding & Morphology"]
+    C --> D["Canny Edge Detection"]
+    D --> E["Axis Detection with Hough Transform"]
+    E --> F["OCR & Coordinate Calibration"]
+    F --> G["Curve Extraction"]
+    G --> H["Pixel-to-Coordinate Mapping"]
+    H --> I[("X–Y Dataset")]
+    I --> J["CSV Export"]
+    I --> K["Polynomial Curve Fitting"]
+    K --> L["R² · RMSE · MAE"]
+
+    style A fill:#dbeafe,stroke:#2563eb,color:#172554
+    style I fill:#dcfce7,stroke:#16a34a,color:#14532d
+    style L fill:#f3e8ff,stroke:#9333ea,color:#581c87
+```
+
+### 📉 Example Model Comparison
+
+Sample results from VisionPlot experiments:
+
+| Model | R² | RMSE | MAE |
+|---|---:|---:|---:|
+| Linear | 0.8411 | 0.5946 | 0.4975 |
+| Quadratic | 0.9873 | 0.1679 | 0.1416 |
+| Cubic | 0.9995 | 0.0343 | 0.0285 |
+
+```mermaid
+xychart-beta
+    title "VisionPlot Model R² Comparison"
+    x-axis ["Linear", "Quadratic", "Cubic"]
+    y-axis "R² Score" 0 --> 1
+    bar [0.8411, 0.9873, 0.9995]
+```
+
+*Results are from the tested VisionPlot datasets; fitting performance depends on the input graph and extracted coordinates.*
+
+---
 
 ## 🌱 Currently Learning
 
@@ -257,10 +310,11 @@ Explores image enhancement, filtering, segmentation, feature extraction, and obj
 
 ## 🏆 Certifications & Learning
 
-- Google Data Analytics Professional Certificate 
+- Google Data Analytics
+- Google Data Visualization
+- Google Introduction to Data Analytics Using Python
 - IBM Databases and SQL for Data Science
-- Stanford Machine Learning Specialization
-- Active Contributor in GSSOC
+- Machine Learning Guided Projects
 
 ---
 
